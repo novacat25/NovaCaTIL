@@ -1,2 +1,3 @@
-# novacaTIL
-Today I Learned
+# NovacaTIL
+TIL, 즉 그날 배운 내용(**T**oday **I** **L**earned)을 매일 단위로 기록하고 커밋하기 위한 리포지토리입니다.
+기술 블로그와 더불어 매일 단위로 기록하는 습관을 기르기 위한 리포지토리입니다.
